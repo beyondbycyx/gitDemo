@@ -3,8 +3,6 @@ change 1
 change 2
 本地修改上交 1
 dev change 1
-<<<<<<< HEAD
-featurel changeandmaster  1
-=======
-featurel change 1
->>>>>>> featurel
+featurel changeand  1
+dev add 1
+ 
