@@ -22,6 +22,23 @@
 - item4
   - item4.1
   - item4.2
-  
+
+## 这是引用
+> 我最是全宇宙最帅的
+> -hugo
+
+## 这是代码部分
+```
+   if(my.isAwesome)
+      return true;
+```
+
+```javascript
+  if(my.isAwesome)
+      return true;
+```
+
+## 这是图片
+![图片](https://octodex.github.com/images/yaktocat.png)
 
 
