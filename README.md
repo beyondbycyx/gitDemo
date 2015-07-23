@@ -42,6 +42,8 @@
   if(my.isAwesome)
       return true;
 ```
+## 这是动态图片
+![动态图片](http://uploadgif.55.la/upload/temp/2015/07/23/17/100008587772683.gif)
 
 ## 这是图片
 ![图片](https://octodex.github.com/images/yaktocat.png)
